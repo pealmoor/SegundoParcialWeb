@@ -68,4 +68,5 @@ public class ConexionMySQL {
 		this.preparedStatement = con.prepareStatement(sql);
 		return this.preparedStatement;
 	} 
+}
 	
