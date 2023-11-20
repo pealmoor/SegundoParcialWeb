@@ -82,6 +82,11 @@ private ConexionMySQL conexion;
 		
 		return usuarios;
  	}
+	@Override
+	public Usuario select(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 	
 	
